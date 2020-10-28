@@ -37,3 +37,12 @@ body{
 .navbar-dark{
     background-color: #512da8;
 }
+
+.logo{
+    font-style: italic;
+    font-weight: bolder;
+}
+.submit{
+    background-color:  #512da8;
+    color: white;
+}
