@@ -50,3 +50,7 @@ body{
 .p{
     padding: 10px;
 }
+
+.navbar-yellow{
+    background-color: #c9cc09;
+}
