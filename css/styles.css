@@ -54,3 +54,10 @@ body{
 .navbar-yellow{
     background-color: #c9cc09;
 }
+
+.tab-content {
+    border-left: 1px solid #DDD;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
